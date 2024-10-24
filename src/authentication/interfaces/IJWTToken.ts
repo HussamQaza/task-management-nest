@@ -1,7 +1,7 @@
 export interface IJWTToken {
-  accessToken: string
+  accessToken: string;
 }
 
 export interface IJWTPayload {
-  sub: string,
+  sub: string;
 }
